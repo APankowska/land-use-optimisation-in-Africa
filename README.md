@@ -121,5 +121,6 @@ The project combines mathematical modelling, analytical reasoning, and applied m
  - Constraint Modelling
  - Scenario Analysis
  - Sensitivity Analysis
+ - FICO Xpress
 
    
